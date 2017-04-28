@@ -3,6 +3,6 @@
 using namespace std;
 void inramanhinh()
 {
-	cout << "Toi la cong" << endl;
+	cout << "Toi la cong zdffsf" << endl;
 	system("pause");
 }
