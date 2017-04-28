@@ -8,6 +8,7 @@ void inramanhinh();
 
 int main()
 {
+	inramanhinh();
     return 0;
 }
 
