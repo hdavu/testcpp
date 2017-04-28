@@ -2,7 +2,9 @@
 //
 
 #include "stdafx.h"
+#include<iostream>
 
+void inramanhinh();
 
 int main()
 {
