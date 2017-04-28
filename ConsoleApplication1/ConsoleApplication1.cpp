@@ -4,11 +4,15 @@
 #include "stdafx.h"
 #include<iostream>
 
+using namespace std;
+
 void inramanhinh();
 
 int main()
 {
 	inramanhinh();
+	cout << "Hiep \n";
+	system("pause");
     return 0;
 }
 
